@@ -1,15 +1,9 @@
 <template>
-  <div class="text-center">
-    Sono il footer
-  </div>
+    <div class="text-center text-uppercase text-danger mt-5 h2">Boolpress</div>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-
-</style>
+<style></style>
